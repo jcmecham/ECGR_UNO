@@ -2,8 +2,11 @@
 
 This Lab is apart of my Engineering c++ programming class
 
-Run by changing directories to /Completed_UNO
-  then run:
+To play:
+Within the Completed_UNO directory
+  type:
+  
     '''make uno'''
-    
+  then
+  
     '''./uno'''
